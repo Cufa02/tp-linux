@@ -1,4 +1,4 @@
 # tp-linux
 Integrantes:
-Facundo Gordillo Stanzione
+Facundo Gordillo Stanzione - 
 José Oldani
